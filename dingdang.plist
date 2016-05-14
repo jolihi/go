@@ -33,15 +33,15 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.ccssoft.mopclient.chongqing</string>
+               <string>app.gp.gptest4</string>
                <key>bundle-version</key>
-               <string>1.0.0</string>
+               <string>6.3.8</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>帅哥</string>
+               <string>叮当猫微信</string>
                <key>title</key>
-               <string>帅哥阿</string>
+               <string>叮当猫微信</string>
            </dict>
        </dict>
    </array>
